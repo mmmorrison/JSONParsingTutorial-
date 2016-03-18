@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="6"
+    timestamp="156145290797116" >
+
+    <task
+        name="javac"
+        duration="157" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="101" />
+    <task
+        name="verifier"
+        duration="9" />
+
+    <artifact
+        location="/Users/HomeMariaHome/Workspace/JSONParsingTutorial 2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="156145290797116" >
+        <artifact
+            location="/Users/HomeMariaHome/Workspace/JSONParsingTutorial 2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/HomeMariaHome/Workspace/JSONParsingTutorial 2/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_slice.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e2ffdf37ac47b33aa165d748a264eb250c413b66">
+        <dex dex="/Users/HomeMariaHome/Workspace/JSONParsingTutorial 2/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_slice_2f7f33e77cc3d0c4dd78549b41aeff5552dbd2c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/HomeMariaHome/Workspace/JSONParsingTutorial 2/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/1a/dependencies.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09f4f936c372167466e736a54e77a8ef26522c15">
+        <dex dex="/Users/HomeMariaHome/Workspace/JSONParsingTutorial 2/app/build/intermediates/transforms/dex/debug/folders/1000/1a/dependencies_27a00c171080f94a24e8b665358a9f8857865518/classes.dex" />
+    </item>
+    <item
+        jar="/Users/HomeMariaHome/Workspace/JSONParsingTutorial 2/app/build/intermediates/transforms/instantRunSlicer/debug/jars/1/5/main_sliceb.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c9f5e71f6f5f1317d5e950e31b4be39931c8800f">
+        <dex dex="/Users/HomeMariaHome/Workspace/JSONParsingTutorial 2/app/build/intermediates/transforms/dex/debug/folders/1000/5/main_sliceb_f0f8c97af2a1851d6dd41ae738d2fc9e97f13a1d/classes.dex" />
+    </item>
+
+</items>
